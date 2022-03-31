@@ -1,5 +1,7 @@
 # Universidade Mais1code #7 G10
 
+[<img alt="Mais1Code" width="300px" src="logo.png" />](https://mais1code.com.br/)
+
 Encontros: Terça e Quinta - 19h30 às 21h00
 Período: 6 meses (24 semanas)
 
