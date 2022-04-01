@@ -46,7 +46,7 @@ Apresentação
 - [ ] 1.1 - HTML e HTML5 básicos (8-x/28)
 
 Estudo complementar
-- [ ] 1.1 - HTML e HTML5 básicos (x-28/28)
+- [ ] [1.1 - HTML e HTML5 básicos](https://www.freecodecamp.org/portuguese/learn/responsive-web-design/#basic-html-and-html5)
 - [ ]  [5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!](https://www.youtube.com/watch?v=3oSIqIqzN3M)
 - [ ] [Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara](https://youtu.be/rsFCVjr5yxc)
 - [ ] [Curso de HTML5 - 02 - História da HTML - by Gustavo Guanabara](https://youtu.be/NSmapCNcSyI)
