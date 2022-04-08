@@ -33,59 +33,76 @@ Período: 6 meses (24 semanas)
   - Node / Express
 - Projeto (8 semanas)
 
-### Aula 1
+---
+
+### Aula 1 (29/03)
 
 Apresentação
 
-- [x] 1.1 - HTML e HTML5 básicos (1-7/28)
+-  1.1 - HTML e HTML5 básicos (1-7/28)
 
+---
+### Aula 2 (31/03)
 
-### Aula 2
-
-- [ ] [Pesquisa Salarial de Programadores Brasileiros 2022](https://pesquisa.codigofonte.com.br/2022)
-- [ ] 1.1 - HTML e HTML5 básicos (8-x/28)
-
-Estudo complementar
-- [ ] [1.1 - HTML e HTML5 básicos](https://www.freecodecamp.org/portuguese/learn/responsive-web-design/#basic-html-and-html5)
-- [ ]  [5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!](https://www.youtube.com/watch?v=3oSIqIqzN3M)
-- [ ] [Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara](https://youtu.be/rsFCVjr5yxc)
-- [ ] [Curso de HTML5 - 02 - História da HTML - by Gustavo Guanabara](https://youtu.be/NSmapCNcSyI)
-- [ ] [Curso de HTML5 - 03 - Como Funciona a Internet - by Gustavo Guanabara](https://youtu.be/LMfeZ6XD0No)
-
-### Aula 3
-
-- [ ] 1.2 - CSS básico (1-x/44)
+- [Pesquisa Salarial de Programadores Brasileiros 2022](https://pesquisa.codigofonte.com.br/2022)
+- 1.1 - HTML e HTML5 básicos (8-x/28)
 
 Estudo complementar
-- [ ] 1.2 - CSS básico (x-44/44)
-- [ ] 1.3 - Design visual aplicado (52)
-- [ ] 1.4 - Acessibilidade aplicada (22)
+-  [1.1 - HTML e HTML5 básicos](https://www.freecodecamp.org/portuguese/learn/responsive-web-design/#basic-html-and-html5)
+-  [5 MINUTOS DE HTML PARA INICIAR EM PROGRAMAÇÃO!](https://www.youtube.com/watch?v=3oSIqIqzN3M)
+-  [Curso HTML5 - 01 - História da Internet - by Gustavo Guanabara](https://youtu.be/rsFCVjr5yxc)
+-  [Curso de HTML5 - 02 - História da HTML - by Gustavo Guanabara](https://youtu.be/NSmapCNcSyI)
+-  [Curso de HTML5 - 03 - Como Funciona a Internet - by Gustavo Guanabara](https://youtu.be/LMfeZ6XD0No)
+-  [W3 Schools - Referência HTML](https://www.w3schools.com/html/default.asp)
 
-### Aula 4
+---
+### Aula 3 (05/04)
 
-- [ ] 1.5 - Princípios do design responsivo para a web (4)
-- [ ] 1.6 - CSS Flexbox (1-x/17)
+- 1.2 - CSS básico (1-6/44)
 
 Estudo complementar
-- [ ] 1.6 - CSS Flexbox (x-17/17)
-- [ ] [Um guia completo para Flexbox](https://css--tricks-com.translate.goog/snippets/css/a-guide-to-flexbox/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
-- [ ] [LANDING PAGE COM HTML e CSS!](https://youtu.be/llF6vD-RljE)
+-  1.2 - CSS básico (x-44/44)
+-  1.3 - Design visual aplicado (52)
+-  1.4 - Acessibilidade aplicada (22)
 
+---
+### Aula 4 (07/04)
+
+- [03 - Como funciona HTML e CSS.pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/03%20-%20Como%20funciona%20HTML%20e%20CSS.pdf)
+-  1.2 - CSS básico (7-x/44)
+
+Estudo complementar
+-  [1.2 - CSS básico](https://www.freecodecamp.org/portuguese/learn/responsive-web-design/#basic-html-and-html5)
+- [O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES)](https://youtu.be/LWU2OR19ZG4)
+- [W3 Schools - Referência CSS](https://www.w3schools.com/css/default.asp)
+
+Projeto prático
+- [LANDING PAGE COM HTML e CSS!](https://youtu.be/llF6vD-RljE)
+
+
+---
 ### Aula 5
 
-- [ ] 1.7 - CSS Grid (22)
-- [ ] Projeto HTML / CSS
+- 1.5 - Princípios do design responsivo para a web (4)
+- 1.6 - CSS Flexbox (1-x/17)
+- 1.7 - CSS Grid (22)
+- Projeto HTML / CSS
+- [Um guia completo para Flexbox](https://css--tricks-com.translate.goog/snippets/css/a-guide-to-flexbox/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
 
+---
 ### Aula 6
 
 - [ ] Projeto HTML / CSS
 
+---
 ### Aula 7
 
 - [ ] 2.1 - JavaScript básico (113)
 
+---
 ...
 
+---
 
 ## Referências
 
@@ -93,7 +110,7 @@ Estudo complementar
 - https://www.youtube.com/c/FilipeDeschamps/videos?app=desktop
 - https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q
 - https://codesandbox.io/
-- https://codepen.io/
+- https://codepen.io/pen/
 
 ## Cursos
 - https://www.freecodecamp.org/portuguese/learn/responsive-web-design/
