@@ -84,11 +84,9 @@ Projeto prático
 
 - [FreeCodeCamp] 1.2 - CSS básico (7-x/44)
 
-
 Estudo complementar
-- 1.5 - Princípios do design responsivo para a web (4)
-- 1.6 - CSS Flexbox (1-x/17)
-- 1.7 - CSS Grid (22)
+- [FreeCodeCamp] 1.5 - Princípios do design responsivo para a web (4)
+- [FreeCodeCamp] 1.7 - CSS Grid (22)
 - Guia Flexbox [link](https://css--tricks-com.translate.goog/snippets/css/a-guide-to-flexbox/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
 -  Comandos git [link](https://terminalroot.com.br/git/)
 - VsCode [link](https://code.visualstudio.com/Download)
@@ -99,12 +97,20 @@ Projeto prático
 ---
 ### Aula 6 (12/04)
 
-Projeto prático
+Projeto 1
 
 - <b>[Rafaella Ballerini] LANDING PAGE COM HTML e CSS!</b> [video](https://youtu.be/llF6vD-RljE)
 
 ---
-### Aula 7
+### Aula 7 (19/04)
+
+- Revisão Projeto 1
+- Guia Flexbox [link](https://www.alura.com.br/artigos/css-guia-do-flexbox)
+- [FreeCodeCamp] 1.6 - CSS Flexbox (1-x/17)
+
+---
+
+### Aula 8 
 
 - [ ] 2.1 - JavaScript básico (113)
 
