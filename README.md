@@ -95,7 +95,7 @@ Projeto prático
 - <b>[Rafaella Ballerini] LANDING PAGE COM HTML e CSS!</b> [video](https://youtu.be/llF6vD-RljE)
 
 ---
-### Aula 6 (12/04)
+### Aula 6 (14/04)
 
 Projeto 1
 
@@ -110,9 +110,18 @@ Projeto 1
 
 ---
 
-### Aula 8 
+### Aula 8 (26/04)
 
-- [ ] 2.1 - JavaScript básico (113)
+- Revisão Projeto 1
+- [Curso em Video] 04 - Primeiros passos HTML.pdf (Configuração VsCode) [pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/04%20-%20Primeiros%20passos%20HTML.pdf)
+- [Curso em Video] 05 - Caracteres, parágrafos e quebras de linha.pdf [pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/05%20-%20Caracteres%2C%20par%C3%A1grafos%20e%20quebras%20de%20linha.pdf)
+- [Curso em Video] 06 - Imagens e Favicon.pdf [pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/06%20-%20Imagens%20e%20Favicon.pdf)
+- [Curso em Video] 07 - Hierarquia de títulos.pdf [pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/05%20-%20Caracteres%2C%20par%C3%A1grafos%20e%20quebras%20de%20linha.pdf)
+
+Estudo complementar
+
+- [Curso em Video] HTML / CSS - Aulas pdf [link](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+
 
 ---
 ...
