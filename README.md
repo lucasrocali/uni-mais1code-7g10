@@ -121,7 +121,11 @@ Projeto 1
 Estudo complementar
 
 - [Curso em Video] HTML / CSS - Aulas pdf [link](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+- [Rafaella Ballerini] FORMULÁRIOS COM HTML e CSS! [video](https://www.youtube.com/watch?v=wwqOJ2o84S4)
 
+Projeto 2
+
+- <b>[Rafaella Ballerini] FORMULÁRIOS COM HTML e CSS!</b> [video](https://www.youtube.com/watch?v=wwqOJ2o84S4)
 
 ---
 ...
