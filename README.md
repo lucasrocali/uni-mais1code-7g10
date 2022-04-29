@@ -13,10 +13,10 @@ Período: 6 meses (24 semanas)
   - 1.3 - Design visual aplicado (52)
   - 1.4 -  Acessibilidade aplicada (22)
   - 1.5 - Princípios do design responsivo para a web (4)
-  - 1.6 - CSS Flexbox (17)
+  - <b>1.6 - CSS Flexbox (17)</b>
   - 1.7 - CSS Grid (22)
 - 2 - Algoritmos e estruturas de dados em JavaScript - [freeCodeCamp](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/) (4 semanas)
-  - 2.1 - JavaScript básico (113)
+  - <b>2.1 - JavaScript básico (113)</b>
   - 2.2 - ES6 (29)
   - 2.3 - Expressões regulares (33)
   - 2.4 - Depuração (12)
@@ -128,7 +128,13 @@ Projeto 2
 - <b>[Rafaella Ballerini] FORMULÁRIOS COM HTML e CSS!</b> [video](https://www.youtube.com/watch?v=wwqOJ2o84S4)
 
 ---
-...
+### Aula 9 (28/04)
+
+- Revisão Projeto 2
+- [FreeCodeCamp] 2.1 - JavaScript básico
+
+Estudo complementar
+- [FreeCodeCamp] 2.1 - JavaScript básico
 
 ---
 
