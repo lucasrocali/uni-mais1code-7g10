@@ -130,11 +130,10 @@ Projeto 2
 ---
 ### Aula 9 (28/04)
 
-- Revisão Projeto 2
-- [FreeCodeCamp] 2.1 - JavaScript básico
+- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
-- [FreeCodeCamp] 2.1 - JavaScript básico
+- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
 
