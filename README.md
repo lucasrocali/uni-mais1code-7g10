@@ -137,6 +137,15 @@ Estudo complementar
 
 ---
 
+### Aula 10 (03/05)
+
+- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Estudo complementar
+- [Curso em Video] O que o JavaScript é capaz de fazer? - Curso JavaScript #01 [video](https://www.youtube.com/watch?v=Ptbk2af68e8&ab_channel=CursoemV%C3%ADdeo)
+- [Curso em Video] JavaScript: como chegamos até aqui? - Curso JavaScript #02 [video](https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5&ab_channel=CursoemV%C3%ADdeo)
+- [Curso em Video] 02 - Como funciona o JS.pdf [pdf](https://github.com/gustavoguanabara/javascript/blob/master/aulas-pdf/02%20-%20Como%20funciona%20o%20JS.pdf)
+
 ## Referências
 
 - https://github.com/kentcdodds
