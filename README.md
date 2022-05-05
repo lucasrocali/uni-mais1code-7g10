@@ -146,6 +146,14 @@ Estudo complementar
 - [Curso em Video] JavaScript: como chegamos até aqui? - Curso JavaScript #02 [video](https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5&ab_channel=CursoemV%C3%ADdeo)
 - [Curso em Video] 02 - Como funciona o JS.pdf [pdf](https://github.com/gustavoguanabara/javascript/blob/master/aulas-pdf/02%20-%20Como%20funciona%20o%20JS.pdf)
 
+### Aula 11 (05/05)
+
+- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Estudo complementar
+- [Curso em Video] Algoritmos [aulas](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/introducao-a-algoritmos/)
+
+
 ## Referências
 
 - https://github.com/kentcdodds
