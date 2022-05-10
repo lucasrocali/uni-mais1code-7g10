@@ -130,7 +130,7 @@ Projeto 2
 ---
 ### Aula 9 (28/04)
 
-- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [FreeCodeCamp] 2.1 - JavaScript básico (0-20/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
 - [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
@@ -139,7 +139,7 @@ Estudo complementar
 
 ### Aula 10 (03/05)
 
-- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [FreeCodeCamp] 2.1 - JavaScript básico (20-49/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
 - [Curso em Video] O que o JavaScript é capaz de fazer? - Curso JavaScript #01 [video](https://www.youtube.com/watch?v=Ptbk2af68e8&ab_channel=CursoemV%C3%ADdeo)
@@ -148,10 +148,19 @@ Estudo complementar
 
 ### Aula 11 (05/05)
 
-- [FreeCodeCamp] 2.1 - JavaScript básico [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [FreeCodeCamp] 2.1 - JavaScript básico (49-58/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
 - [Curso em Video] Algoritmos [aulas](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/introducao-a-algoritmos/)
+
+### Aula 12 (10/05)
+
+- [Curso em Video] Criando o seu primeiro script - Curso JavaScript #04 [video](https://youtu.be/OmmJBfcMJA8) 
+- [Curso em Video] Variáveis e Tipos Primitivos - Curso JavaScript #05 [video](https://youtu.be/Vbabsye7mWo)
+- [FreeCodeCamp] 2.1 - JavaScript básico (59-x/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Estudo complementar
+- README do curso de fundamentos do JavaScript (Gustavo Guanabara) [doc](https://github.com/divertimentos/Curso-JavaScript-Guanabara)
 
 
 ## Referências
