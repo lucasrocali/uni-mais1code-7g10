@@ -157,7 +157,7 @@ Estudo complementar
 
 - [Curso em Video] Criando o seu primeiro script - Curso JavaScript #04 [video](https://youtu.be/OmmJBfcMJA8) 
 - [Curso em Video] Variáveis e Tipos Primitivos - Curso JavaScript #05 [video](https://youtu.be/Vbabsye7mWo)
-- [FreeCodeCamp] 2.1 - JavaScript básico (59-x/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [FreeCodeCamp] 2.1 - JavaScript básico (59-62/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
 - README do curso de fundamentos do JavaScript (Gustavo Guanabara) [doc](https://github.com/divertimentos/Curso-JavaScript-Guanabara)
