@@ -91,13 +91,13 @@ Estudo complementar
 -  Comandos git [link](https://terminalroot.com.br/git/)
 - VsCode [link](https://code.visualstudio.com/Download)
 
-Projeto prático
+Projeto prático 1
 - <b>[Rafaella Ballerini] LANDING PAGE COM HTML e CSS!</b> [video](https://youtu.be/llF6vD-RljE)
 
 ---
 ### Aula 6 (14/04)
 
-Projeto 1
+Projeto 1 
 
 - <b>[Rafaella Ballerini] LANDING PAGE COM HTML e CSS!</b> [video](https://youtu.be/llF6vD-RljE)
 
@@ -161,6 +161,13 @@ Estudo complementar
 
 Estudo complementar
 - README do curso de fundamentos do JavaScript (Gustavo Guanabara) [doc](https://github.com/divertimentos/Curso-JavaScript-Guanabara)
+
+### Aula 13 (12/05)
+
+- [FreeCodeCamp] 2.1 - JavaScript básico (62-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Projeto prático 3
+- Sistema de notas escolares [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p1)
 
 
 ## Referências
