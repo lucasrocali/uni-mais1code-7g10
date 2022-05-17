@@ -169,6 +169,11 @@ Estudo complementar
 Projeto prático 3
 - Sistema de notas escolares [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p3)
 
+### Aula 14 (17/05)
+
+- [FreeCodeCamp] Revisão 2.1 - JavaScript básico (0-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- Revisao Projeto prático 3 [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p3)
+
 
 ## Referências
 
