@@ -146,12 +146,16 @@ Estudo complementar
 - [Curso em Video] JavaScript: como chegamos até aqui? - Curso JavaScript #02 [video](https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5&ab_channel=CursoemV%C3%ADdeo)
 - [Curso em Video] 02 - Como funciona o JS.pdf [pdf](https://github.com/gustavoguanabara/javascript/blob/master/aulas-pdf/02%20-%20Como%20funciona%20o%20JS.pdf)
 
+---
+
 ### Aula 11 (05/05)
 
 - [FreeCodeCamp] 2.1 - JavaScript básico (49-58/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Estudo complementar
 - [Curso em Video] Algoritmos [aulas](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/introducao-a-algoritmos/)
+
+---
 
 ### Aula 12 (10/05)
 
@@ -162,6 +166,8 @@ Estudo complementar
 Estudo complementar
 - README do curso de fundamentos do JavaScript (Gustavo Guanabara) [doc](https://github.com/divertimentos/Curso-JavaScript-Guanabara)
 
+---
+
 ### Aula 13 (12/05)
 
 - [FreeCodeCamp] 2.1 - JavaScript básico (62-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
@@ -169,10 +175,14 @@ Estudo complementar
 Projeto prático 3
 - Sistema de notas escolares [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p3)
 
+---
+
 ### Aula 14 (17/05)
 
 - [FreeCodeCamp] Revisão 2.1 - JavaScript básico (0-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - Revisao Projeto prático 3 [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p3)
+
+---
 
 
 ## Referências
