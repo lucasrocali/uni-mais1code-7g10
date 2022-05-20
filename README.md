@@ -179,11 +179,19 @@ Projeto prático 3
 
 ### Aula 14 (17/05)
 
-- [FreeCodeCamp] Revisão 2.1 - JavaScript básico (0-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- Revisão [FreeCodeCamp] 2.1 - JavaScript básico (0-74/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - Revisao Projeto prático 3 [video](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-java-script/consolidando-com-exercicios/sistema-de-notas-escolares) - [p3](https://github.com/lucasrocali/uni-mais1code-7g10/tree/main/projetos/p3)
 
 ---
 
+### Aula 15 (19/05)
+
+- [FreeCodeCamp] 2.1 - JavaScript básico (74-80/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Estudo complementar
+- [FreeCodeCamp] Jogar golfe de código [link](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+
+---
 
 ## Referências
 
