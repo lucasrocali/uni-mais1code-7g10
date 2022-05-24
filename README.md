@@ -193,6 +193,15 @@ Estudo complementar
 
 ---
 
+### Aula 16 (24/05)
+
+- [FreeCodeCamp] 2.1 - JavaScript básico (80-x/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+Estudo complementar
+- https://www.fronteditor.dev/
+
+---
+
 ## Referências
 
 - https://github.com/kentcdodds
@@ -200,6 +209,7 @@ Estudo complementar
 - https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q
 - https://codesandbox.io/
 - https://codepen.io/pen/
+- https://www.fronteditor.dev/
 
 ## Cursos
 - https://www.freecodecamp.org/portuguese/learn/responsive-web-design/
