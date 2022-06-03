@@ -208,6 +208,21 @@ Estudo complementar
 
 ---
 
+### Aula 18 (31/05)
+
+- [FreeCodeCamp] Revisão 2.1 - JavaScript básico (89-95/113) [link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+---
+
+### Aula 19 (02/06)
+
+- Figma OndeTem? [link](https://www.figma.com/file/RaWyQbcwbZQiaADXNqLPZj/OndeTem%3F?node-id=0%3A1)
+
+Estudo complementar
+- MVP (Minimum Viable Product): o que é e como criar o seu? [link](https://blog.betrybe.com/carreira/mvp-tudo-sobre/)
+
+---
+
 ## Referências
 
 - https://github.com/kentcdodds
