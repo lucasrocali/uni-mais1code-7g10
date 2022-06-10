@@ -223,6 +223,16 @@ Estudo complementar
 
 ---
 
+### Aula 20 (09/06)
+
+- Figma OndeTem? [link](https://www.figma.com/file/RaWyQbcwbZQiaADXNqLPZj/OndeTem%3F?node-id=0%3A1)
+
+- https://www.behance.net/gallery/143875329/Rewaste?tracking_source=search_projects%7Crecycle
+- https://www.behance.net/gallery/125847109/Recycle-App-UXUI-concept?tracking_source=search_projects%7Crecycle
+- https://www.behance.net/gallery/101374017/Waste-recycling-App?tracking_source=search_projects%7Crecycle
+
+---
+
 ## Referências
 
 - https://github.com/kentcdodds
