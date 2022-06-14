@@ -233,6 +233,16 @@ Estudo complementar
 
 ---
 
+### Aula 21 (14/06)
+
+- Figma OndeTem? [link](https://www.figma.com/file/RaWyQbcwbZQiaADXNqLPZj/OndeTem%3F?node-id=0%3A1)
+
+Estudo complementar
+- [Rocketseat] Fundamentos do ReactJS [link](https://app.rocketseat.com.br/discover/course/especializar-react)
+- [FreeCodeCamp] Bibliotecas de desenvolvimento em front-end - React - [link](https://www.freecodecamp.org/portuguese/learn/front-end-development-libraries/#react)
+
+
+
 ## Referências
 
 - https://github.com/kentcdodds
