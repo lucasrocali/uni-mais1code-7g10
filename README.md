@@ -241,6 +241,9 @@ Estudo complementar
 - [Rocketseat] Fundamentos do ReactJS [link](https://app.rocketseat.com.br/discover/course/especializar-react)
 - [FreeCodeCamp] Bibliotecas de desenvolvimento em front-end - React - [link](https://www.freecodecamp.org/portuguese/learn/front-end-development-libraries/#react)
 
+### Aula 22 (21/06)
+
+- Figma OndeTem? [link](https://www.figma.com/file/RaWyQbcwbZQiaADXNqLPZj/OndeTem%3F?node-id=0%3A1)
 
 
 ## Referências
@@ -251,6 +254,9 @@ Estudo complementar
 - https://codesandbox.io/
 - https://codepen.io/pen/
 - https://www.fronteditor.dev/
+- https://roadmap.sh/frontend
+- https://roadmap.sh/react
+- https://roadmap.sh/backend
 
 ## Cursos
 - https://www.freecodecamp.org/portuguese/learn/responsive-web-design/
