@@ -245,6 +245,20 @@ Estudo complementar
 
 - Figma OndeTem? [link](https://www.figma.com/file/RaWyQbcwbZQiaADXNqLPZj/OndeTem%3F?node-id=0%3A1)
 
+### Aula 23 (23/06)
+
+### Aula 24 (28/06)
+
+- https://github.com/lucasrocali/expo-ts-rest-template
+
+### Aula 25 (30/06)
+
+- https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329
+- https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+- https://www.youtube.com/watch?v=UBAX-13g8OM
+- https://www.youtube.com/watch?v=2alg7MQ6_sI
+
+- https://github.com/lucasrocali/expo-ts-rest-template
 
 ## Referências
 
